@@ -1,0 +1,35 @@
+1. Pengertian FTTH
+FTTH (Fiber To The Home) adalah jaringan akses berbasis fiber optik yang menghubungkan penyedia layanan langsung ke rumah pelanggan untuk menyediakan layanan internet, IPTV, dan telepon dengan kecepatan tinggi dan stabil.
+
+2. Tujuan Desain FTTH
+	•	Menyediakan layanan internet berkecepatan tinggi
+	•	Meningkatkan kualitas dan stabilitas jaringan
+	•	Mengurangi gangguan dan redaman sinyal
+	•	Mendukung kebutuhan komunikasi masa depan
+
+3. Arsitektur Jaringan FTTH
+Desain FTTH menggunakan topologi Point to Multipoint (P2MP) dengan teknologi GPON.
+
+4. Komponen Utama FTTH
+	•	OLT (Optical Line Terminal): Sumber layanan dari sentral
+	•	ODF (Optical Distribution Frame): Terminasi dan manajemen fiber
+	•	ODC (Optical Distribution Cabinet): Pembagi jalur utama
+	•	ODP (Optical Distribution Point): Titik distribusi ke pelanggan
+	•	FAT (Fiber Access Terminal): Terminasi dekat pelanggan
+	•	Drop Cable: Kabel fiber ke rumah pelanggan
+	•	ONT/ONU: Perangkat penerima di sisi pelanggan
+
+5. Alur Jaringan FTTH
+OLT → ODF → ODC → ODP → FAT → Drop Cable → ONT (Rumah Pelanggan)
+
+6. Media Transmisi
+Menggunakan kabel fiber optik single mode dengan redaman rendah dan bandwidth besar.
+
+7. Keunggulan FTTH
+	•	Kecepatan tinggi
+	•	Tahan gangguan elektromagnetik
+	•	Koneksi stabil
+	•	Umur jaringan lebih panjang
+
+8. Penutup
+Konsep desain FTTH ini dirancang untuk memberikan layanan jaringan yang handal, efisien, dan mampu memenuhi kebutuhan komunikasi digital masyarakat.
